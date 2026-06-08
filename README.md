@@ -237,14 +237,6 @@ Predicted Treatment Cost ≈ 3003 USD
 ├── notebook/
 │   └── healthcare_prediction.ipynb
 │
-├── images/
-│   ├── diagnosis_cost.png
-│   ├── bmi_vs_cost.png
-│   └── prediction_result.png
-│
-├── slides/
-│   └── presentation.pptx
-│
 └── README.md
 ```
 
