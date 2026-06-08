@@ -97,11 +97,12 @@ Diastolic_BP = 80
 Kết quả cho thấy:
 
 - Heart Disease có chi phí điều trị trung bình cao nhất.
-- Allergy có chi phí điều trị trung bình thấp nhất.
+- images/avg_treatment_cost.png.png
 
 ### Tỷ lệ hút thuốc
 
 - Khoảng 47% bệnh nhân hút thuốc.
+- 
 
 ### BMI và chi phí điều trị
 
